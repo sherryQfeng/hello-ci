@@ -1,6 +1,6 @@
 AUTHOR = 'Sherry Feng'
 SITENAME = 'Causal Inference for Ecommerce'
-SITEURL = ""
+SITEURL = "https://sherryqfeng.github.io/hello-ci/"
 
 PATH = "content"
 
