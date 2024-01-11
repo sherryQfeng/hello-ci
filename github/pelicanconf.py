@@ -8,6 +8,8 @@ TIMEZONE = 'US/Central'
 
 DEFAULT_LANG = 'en'
 
+THEME = "/Users/sherryfeng/Documents/pelican-themes/bootstrap"
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
